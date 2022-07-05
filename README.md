@@ -6,7 +6,7 @@
 
 ![Jean Correa GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanlcorrea&show_icons=true&theme=dark)</br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlcorrea&langs_count=8)](https://github.com/jeanlcorrea/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlcorrea&layout=compact)](https://github.com/jeanlcorrea/github-readme-stats)
 </br>
 ## DAILY TECHNOLOGIES:
 
