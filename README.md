@@ -1,4 +1,4 @@
-# HI THERE, I'M JEAN CORREA 🧗🏻‍♂️
+# HI THERE! I'M JEAN CORREA 🧗🏻‍♂️
 
 [![PORTFOLIO](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jazzy-muffin-0b6541.netlify.app/)
 [![LINKEDIIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-correa-0310b0234/)
