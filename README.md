@@ -1,6 +1,6 @@
 # HI THERE! I'M JEAN CORREA 🧗🏻‍♂️
 </br>
-### Estudando JavaScript 📚
+Estudando JavaScript 📚
 </br>
 
 [![PORTFOLIO](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jazzy-muffin-0b6541.netlify.app/)
