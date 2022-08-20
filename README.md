@@ -1,6 +1,6 @@
 # HI THERE! I'M JEAN CORREA 🧗🏻‍♂️
 </br>
-📚   Estudando JavaScript    📚
+📚    Estudando JavaScript     📚
 </br>
 </br>
 
