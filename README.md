@@ -1,9 +1,10 @@
 # HI THERE! I'M JEAN CORREA 🧗🏻‍♂️
 </br>
-📚    Estudando JavaScript     📚
+📚    Estudando   📚
 
+- JavaScript
 - SCRUM
-- SQL
+- MySQL
 
 </br>
 </br>
