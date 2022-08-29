@@ -6,8 +6,7 @@
 </br>
 
 - JavaScript
-- SCRUM
-- MySQL
+- SQL
 
 </br>
 
