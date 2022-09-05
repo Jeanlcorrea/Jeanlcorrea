@@ -7,6 +7,7 @@
 
 - JavaScript
 - SQL
+- REST API
 - Metodologias Ágeis | SCRUM
 </br>
 
