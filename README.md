@@ -1,4 +1,4 @@
-# HI THERE! I'M JEAN CORREA 🧗🏻‍♂️
+# Olá! Eu sou Jean Correa 🧗🏻‍♂️
 </br>
     📚   Estudando:
 
