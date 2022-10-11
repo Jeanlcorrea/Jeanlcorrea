@@ -11,8 +11,9 @@
 - Metodologias Ágeis | SCRUM
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/jeanlcorrea/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurjeanlcorrea&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/jeanlcorrea/github-readme-stats)
+
 
 [![PORTFOLIO](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jazzy-muffin-0b6541.netlify.app/)
 [![LINKEDIIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-correa-0310b0234/)
