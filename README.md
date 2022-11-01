@@ -6,6 +6,7 @@
 </br>
 
 - JavaScript
+- SQL
 - API
 - Docker
 - Metodologias Ágeis | SCRUM
