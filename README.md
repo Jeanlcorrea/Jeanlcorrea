@@ -9,6 +9,7 @@
 - Docker
 - Metodologias Ágeis | SCRUM
 - Java
+- - Python
 </br>
 
 ![jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanlcorrea&show_icons=true&theme=tokyonight)
