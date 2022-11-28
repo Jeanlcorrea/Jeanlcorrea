@@ -7,7 +7,6 @@
 
 - JavaScript
 - Docker
-- Metodologias Ágeis | SCRUM
 - Java
 - Python
 </br>
