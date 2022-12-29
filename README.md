@@ -5,7 +5,7 @@
 </br>
 </br>
 
-- JavaScript
+- PostgreSQL
 - Docker
 - Java
 - Python
