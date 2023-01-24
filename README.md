@@ -5,7 +5,6 @@
 </br>
 </br>
 
-- PostgreSQL
 - Docker
 - Java
 - Python
