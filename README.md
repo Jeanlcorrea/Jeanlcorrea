@@ -7,7 +7,7 @@
 
 - Python
 - Django
-- Django Restframework
+- Django Rest Framework
 - SOLID
 - Design Patterns
 </br>
