@@ -8,8 +8,6 @@
 - Python
 - Django
 - Django Rest Framework
-- SOLID
-- Design Patterns (Padrões de Projeto em Python)
 </br>
 
 ![jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanlcorrea&show_icons=true&theme=tokyonight)
