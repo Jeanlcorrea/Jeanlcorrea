@@ -39,6 +39,14 @@
 
   
   <img align="center" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="100"/>
+  
+  
+  <img align="center" alt="rabbit" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="100" />
+  
+  
+  <img align="center" alt="kibana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original-wordmark.svg" width="100"/>
+  
+  <img align="center" alt="kibana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="100" />
           
 </div>
 
