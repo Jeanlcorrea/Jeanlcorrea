@@ -36,6 +36,10 @@
 
  
   <img align="center" alt="mongo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="100" />
+
+  
+  <img align="center" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="100"/>
+          
 </div>
 
 
