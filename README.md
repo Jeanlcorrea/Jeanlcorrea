@@ -1,14 +1,4 @@
 # Olá! Eu sou Jean Correa 🧗🏻‍♂️
-</br>
-    📚   Estudando:
-
-</br>
-</br>
-
-- Python
-- Django
-- Django Rest Framework
-</br>
 
 ![jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanlcorrea&show_icons=true&theme=tokyonight)
 </br>
@@ -38,15 +28,16 @@
   <img align="center" alt="mongo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="100" />
 
   
+  <img align="center" alt="rabbit" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="100" />
+          
+  
   <img align="center" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="100"/>
+
   
+  <img align="center" alt="kibana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" />
+          
   
-  <img align="center" alt="rabbit" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="100" />
-  
-  
-  <img align="center" alt="kibana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original-wordmark.svg" width="100"/>
-  
-  <img align="center" alt="kibana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="100" />
+  <img align="center" alt="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="100" />
           
 </div>
 
